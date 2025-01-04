@@ -18,6 +18,8 @@ Projekt został przygotowany przez osobę samouka, z wykorzystaniem ChatGPT jako
 Wszystkie wizualizacje są dynamiczne i dostosowują się do wybranych parametrów.
 Zapraszam do zapoznania się z raportem.
 
+Uwaga: Niektóre elementy wizualizacji w raporcie mogą nie być widoczne w podglądzie GitHub. Aby zobaczyć pełny raport, pobierz plik .pbix lub sprawdź wersję PDF.
+
 Project description (English)
 Title: Interactive Power BI Report - Analysis of Financial and Social Indicators
 This project presents an interactive Power BI report that analyzes various financial and social indicators for European countries. The report allows:
@@ -37,3 +39,5 @@ Key features:
 The project was developed by a self-taught individual with ChatGPT as a technical support tool.
 All visualizations are dynamic and adapt to selected parameters.
 Feel free to explore the report.
+
+Note: Some visualizations in the report may not be visible in the GitHub preview. To view the full report, download the .pbix file or check the PDF version.
